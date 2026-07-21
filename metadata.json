@@ -1,0 +1,6 @@
+{
+  "name": "Python Metaprogramming Explorer",
+  "description": "Interactive visualizer and analyzer for Python metaprogramming, dynamic class instantiation, and method resolution order.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
